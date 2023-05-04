@@ -1,1 +1,1 @@
-## Análise de dados exploratória
+## Análise de dados exploratória de uma base de vendas
